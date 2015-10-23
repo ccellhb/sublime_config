@@ -1,0 +1,11 @@
+[
+	
+	{ "keys": ["ctrl+h"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+shift+h"], "command": "goto_symbol_in_project" },
+
+	{ "keys": ["ctrl+r"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["ctrl+shift+r"], "command": "replace_next" },
+
+
+
+]
